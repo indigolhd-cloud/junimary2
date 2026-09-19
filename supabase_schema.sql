@@ -60,3 +60,5 @@ with check (auth.uid() = user_id);
 
 -- books의 추가/수정/게시 권한은 학생 클라이언트에 주지 않습니다.
 -- 새 교재는 관리자 환경에서 pack JSON을 books.pack에 넣고 is_published=true로 게시합니다.
+
+grant select on table public.books to anon, authenticated;
