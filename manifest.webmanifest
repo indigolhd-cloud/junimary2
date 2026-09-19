@@ -1,0 +1,9 @@
+{
+  "name": "EngStep",
+  "short_name": "EngStep",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#3977f6",
+  "description": "단어·문법·오답·복습을 웹과 앱에서 이어서 학습하는 영어 학습 서비스"
+}

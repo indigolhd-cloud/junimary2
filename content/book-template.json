@@ -1,0 +1,24 @@
+{
+  "id": "VOC-B02",
+  "type": "vocab",
+  "title": "새 단어 교재",
+  "subtitle": "DAY 01~40",
+  "version": 1,
+  "groups": {
+    "DAY 01": [
+      {
+        "type": "mc",
+        "q": "예시 문제",
+        "opts": [
+          "정답",
+          "오답1",
+          "오답2",
+          "오답3"
+        ],
+        "ans": 0,
+        "exp": "해설",
+        "challenge": false
+      }
+    ]
+  }
+}
